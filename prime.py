@@ -8,4 +8,4 @@ while (i < x):
 else:
     print('prime number')
     
-print("this 1 is frm github and prime exicutation ")
+print("uploading file from pycham to github")
